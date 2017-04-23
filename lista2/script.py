@@ -213,7 +213,6 @@ def knn(training_data, training_labels, test_data, neighbors, use_weights = Fals
 
 
 
-# data, labels = read_breastcancer()
 data, labels = read_wine(True)
 # data, labels = read_yeast()
 
